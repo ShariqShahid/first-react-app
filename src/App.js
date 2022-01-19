@@ -3,7 +3,7 @@ import './App.css'
 
 function App(props) {
   return (
-    <>
+    <div className='container'>
       <div className='title'>
         Hello Word!!!
       </div>
@@ -15,7 +15,7 @@ function App(props) {
       >
         Submit
       </div>
-    </>
+    </div>
   )
 }
 

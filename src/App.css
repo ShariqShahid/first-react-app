@@ -1,3 +1,7 @@
+.container{
+    margin-left: 10px;
+}
+
 .title {
     color: red;
     font-weight: bold;
